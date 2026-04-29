@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"CityDay","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":820},
+{"id":2,"expanded":true,"name":"Apartment","order":2,"parentId":1,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":3,"expanded":false,"name":"DepartmentStore","order":5,"parentId":5,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":4,"expanded":false,"name":"IntroCutscene","order":3,"parentId":1,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":5,"expanded":true,"name":"CityNight1","order":4,"parentId":1,"scrollX":1082.6666666666667,"scrollY":757.3333333333334},
+{"id":6,"expanded":true,"name":"ClinicDay2","order":7,"parentId":7,"scrollX":1080,"scrollY":597.3333333333334},
+{"id":7,"expanded":true,"name":"ClinicDay1","order":6,"parentId":1,"scrollX":1092,"scrollY":609.3333333333334}
+]
